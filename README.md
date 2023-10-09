@@ -6,7 +6,7 @@
 </p>
 <div id="bio">
 <h1>Hello and Welcome to my Github!</h1>
-<p> Hey 👋 you've found my little home on the interwebs! My name is Iain and I am a self taught front end web developer who enjoys coding, hiking and cats 🐈</p>
+<p> Hey 👋 you've found my little home on the interwebs! My name is Iain and I am a self taught developer who enjoys coding, hiking and cats 🐈</p>
 </div>
 <div="Tech">
 <h2>Tech and Tools</h2>
