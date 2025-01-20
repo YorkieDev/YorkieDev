@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadein" />
-</p>
 <div id="bio">
 <h1>Hello and Welcome to my Github!</h1>
 <p> Hey 👋 you've found my little home on the interwebs! My name is Yorkie and I am a self taught developer who enjoys coding, hiking and cats 🐈</p>
