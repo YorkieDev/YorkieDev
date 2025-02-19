@@ -1,43 +1,33 @@
+# 👋 Hey, I'm Yorkie 🐈💻
 
+I build things that solve problems—whether it's automating tedious tasks, pushing the limits of AI, or crafting efficient web applications. I focus on **Machine Learning, AI, and Web Development**, aiming for projects that are functional, scalable, and actually useful.
 
-# 👋 Hey there! I'm Yorkie 🐈💻
+## 🚀 What I'm Working On
+- **AI-powered chatbots** & automation tools
+- **Web development** with Flask, Django, and JavaScript frameworks
+- **Machine Learning** research and practical applications
+- Writing clean, maintainable code (and debugging the mess I just made)
+- Constantly refining my skills and exploring new tech
 
-> *"Code, Coffee, and Cats – The Three Essentials."*
-
-I'm **Yorkie**, a passionate self-taught developer who enjoys building cool stuff, automating the boring, and exploring the depths of **Machine Learning & AI**. I thrive on solving complex problems and always seek new challenges. 
-
-### 🚀 About Me
-- 🔭 I’m currently working on **AI-powered chatbots & automation scripts**.
-- 🌱 Always learning about **Python, Machine Learning, Web Development, and Cloud Computing**.
-- 🏔️ I love **hiking, coding, and cats** 😺.
-- 💬 Ask me about **Python, Flask, Django and Web Scraping**.
-- 📫 Reach me at: **[GitHub Discussions](https://github.com/YorkieDev)**.
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-### **Tools**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+### **Tools & Systems**
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white&style=for-the-badge)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-
----
-## 📈 GitHub Stats & Activity
-![YorkieDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorkiedev&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorkiedev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorkiedev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorkiedev&theme=radical)
 
----
-## 🎮 Fun Fact
-> **I can write bug-free code!** *(Just kidding, I spend half my time debugging. 🤦‍♂️)*
+## 🎮 Random Fact
+> **Bug-free code?** Sure—after the third refactor and 20 log statements.
 
-☕ **Thanks for stopping by!** If you like my work, consider giving a ⭐ to my repositories!
+If you find my work useful, drop a ⭐ on my repositories.
