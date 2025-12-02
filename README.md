@@ -1,71 +1,61 @@
-# 👋 Hey, I'm Yorkie 🐈💻
+# Hi, I'm Yorkie
 
-### Self-Taught Front-End Developer | Problem Solver | Lifelong Learner
+### Self-Taught Python Developer | Aspiring Data Analyst
 
-I'm a **self-taught front-end developer** passionate about crafting beautiful, responsive web experiences and solving real-world problems through code. My journey from curiosity to competence has been driven by countless hours of building, breaking, and rebuilding projects while mastering **HTML, CSS, JavaScript, and Python**.
+I'm a self-taught Python developer building my skills in data analysis and looking to break into a data-focused role. Without a traditional degree, I've taken a hands-on approach to learning, building real projects and developing practical skills that translate to real-world work.
 
-I focus on creating **intuitive user interfaces**, automating workflows, and exploring the intersection of **web development and AI**—all while writing clean, maintainable code that actually works.
+My focus is on Python, data manipulation, and creating tools that make sense of information. I enjoy working with data, automating repetitive tasks, and finding patterns that tell a story.
 
-## 🚀 What I'm Building
-- **Responsive web applications** with modern HTML5, CSS3, and vanilla JavaScript
-- **Interactive UI components** and dynamic user experiences
-- **Python automation tools** and web scrapers that save time
-- **AI-powered projects** combining front-end skills with machine learning
-- Clean, accessible websites that work beautifully across all devices
+## What I'm Working On
+- Data analysis projects using Python, Pandas, and NumPy
+- Data visualization with Matplotlib and Seaborn
+- SQL queries and database management
+- Automation scripts and data pipelines
+- Building a portfolio of data-driven projects
 
-## 💡 My Self-Taught Journey
-Coming from a non-traditional background, I've learned to code through:
-- 📚 Online courses, documentation, and tutorials
-- 🛠️ Building real projects and learning from mistakes
-- 🤝 Open-source contributions and community learning
-- 🎯 Focused practice on front-end fundamentals and modern best practices
-- 🔄 Continuous iteration and improvement of my skills
+## My Learning Path
+Coming from a non-traditional background, I've developed my skills through:
+- Online courses and self-directed study
+- Hands-on projects and real-world problem solving
+- Reading documentation and technical resources
+- Consistent practice and continuous improvement
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### **Core Front-End Skills**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+### Core Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-### **Tools & Workflow**
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white&style=for-the-badge)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
-## 🎯 Areas of Expertise
-- **Responsive Web Design**: Mobile-first, accessible layouts using Flexbox and Grid
-- **DOM Manipulation**: Dynamic content and interactive features with vanilla JS
-- **CSS Animations**: Smooth transitions and engaging micro-interactions
-- **API Integration**: Fetching and displaying data from REST APIs
-- **Python Scripting**: Automation, web scraping, and back-end development
-- **Problem Solving**: Debugging, optimization, and creative solutions
+## Areas of Focus
+- Data cleaning and preparation
+- Exploratory data analysis
+- Data visualization and reporting
+- Python scripting and automation
+- SQL and relational databases
+- Problem solving with code
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorkiedev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorkiedev&layout=compact&theme=radical)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorkiedev&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorkiedev&layout=compact&theme=default)
 
-## 🌱 Currently Learning
-- Advanced JavaScript concepts (async/await, closures, prototypes)
-- Modern CSS techniques (CSS Grid, custom properties, animations)
-- React.js for building scalable front-end applications
-- TypeScript for type-safe JavaScript development
-- Web accessibility (WCAG) and performance optimization
-
-## 🎮 Random Fact
-> **Bug-free code?** Sure—after the third refactor, 20 console.log() statements, and a rubber duck conversation.
+## Currently Learning
+- Advanced Python for data analysis
+- Statistical analysis and interpretation
+- Machine learning fundamentals
+- Excel and spreadsheet skills for data work
+- Business intelligence tools
 
 ---
 
-💡 *Self-taught doesn't mean alone—it means driven by curiosity and supported by an amazing community.*
-
-If you find my work useful or inspiring, drop a ⭐ on my repositories!
+Open to opportunities in data analysis, data entry, or similar roles. Feel free to reach out.
