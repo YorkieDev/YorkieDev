@@ -49,6 +49,13 @@ Beyond tech, I'm a **Community Manager**, enjoy **building gaming PCs**, and hav
 
 ---
 
+---
+## Merged PR's:
+- https://github.com/lmstudio-ai/docs/pull/149
+- https://github.com/lmstudio-ai/mlx-engine/pull/65
+- https://github.com/lmstudio-ai/lms/pull/250
+---
+
 ## 🤝 Let's Connect
 
 I'm open to opportunities in **Software QA** where I can leverage my games testing background while continuing to grow as a developer.
