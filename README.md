@@ -1,57 +1,64 @@
-# Hi, I'm Yorkie
+# Hi there, I'm Yorkie 👋
 
-### Former Games QA | Self-Taught Front End Developer | Aspiring Software Tester
-
----
-
-## About Me
-
-I'm a former games QA professional transitioning into software testing, combining my quality assurance background with a passion for development. Through self-directed learning, I've built a solid foundation in front end technologies and continue to expand my skills across multiple areas of software development.
-
-My QA experience has given me a keen eye for detail, a systematic approach to identifying issues, and an understanding of the software development lifecycle from a quality perspective.
+### QA Tester | Self-Taught Front End Developer | Open Source Contributor | AI Enthusiast
 
 ---
 
-## Technical Skills
+## 🎮 About Me
 
-**Front End Development**
-- HTML
-- CSS
-- JavaScript
+I'm a QA Tester with a background in **Games Testing**, currently transitioning into **Software QA**. I combine my quality assurance expertise with a passion for front end development, built entirely through self-directed learning.
 
-**Programming & Scripting**
-- Python
-
-**Interests & Exploration**
-- Artificial Intelligence / Machine Learning
-- Open Source Contribution
+Beyond tech, I'm a **Community Manager**, enjoy **building gaming PCs**, and have a growing **comic book collection**.
 
 ---
 
-## Background
+## 🛠️ Tech Stack
 
-Coming from a non-traditional path, I've developed my skills through:
-- Hands-on projects and real-world problem solving
-- Self-directed study and online resources
-- Active participation in the open source community
-- Continuous learning and skill development
-
----
-
-## Current Focus
-
-- Advancing into software testing roles
-- Deepening front end development expertise
-- Exploring AI/ML concepts and applications
-- Contributing to open source projects
-- Building a portfolio that demonstrates both QA and development skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## Goals
+## 🔍 QA & Testing
 
-Seeking opportunities in software testing where I can leverage my games QA background while continuing to grow as a developer. Open to roles that bridge quality assurance and development.
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-4A154B?style=for-the-badge)
+![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-FF6B6B?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test_Cases-00D4AA?style=for-the-badge)
+![Games QA](https://img.shields.io/badge/Games_QA-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 ---
 
-Feel free to connect.
+## 💡 Interests
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🌐 **Open Source Contribution**
+- 🎮 **Building Gaming PCs**
+- 📚 **Comic Book Collecting**
+- 👥 **Community Management**
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔄 Transitioning from Games QA to Software QA
+- 💻 Building front end projects to expand my portfolio
+- 🤝 Contributing to open source projects
+- 📖 Continuously learning and improving my craft
+
+---
+
+## 📊 GitHub Stats
+
+![Yorkie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YorkieDev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YorkieDev&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities in **Software QA** where I can leverage my games testing background while continuing to grow as a developer.
+
+Feel free to reach out!
