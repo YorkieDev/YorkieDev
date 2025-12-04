@@ -49,14 +49,6 @@ Beyond tech, I'm a **Community Manager**, enjoy **building gaming PCs**, and hav
 
 ---
 
-## 📊 GitHub Stats
-
-![Yorkie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YorkieDev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YorkieDev&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to opportunities in **Software QA** where I can leverage my games testing background while continuing to grow as a developer.
